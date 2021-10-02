@@ -1,0 +1,21 @@
+header{
+    text-align: center;
+}
+
+section{
+    width: 400px;
+    margin: auto;
+    background-color: rgb(236, 243, 241);
+    border-radius: 30px;
+}
+
+div{
+    padding: 10px;
+    text-align: center;
+
+}
+
+img{
+    width: 250px;
+    border-radius: 50px;
+}

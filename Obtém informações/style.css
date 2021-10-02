@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    height: 0px;
+}
+
+h1{
+    margin: auto;
+    width: 200px;
+    
+}
+
+.form{
+    margin: auto;
+    width: 200px;
+}
+
+input{
+    box-shadow: none;
+    padding: 5px;
+}
+
+.btn{
+    margin: auto;
+    width: 190px;
+}

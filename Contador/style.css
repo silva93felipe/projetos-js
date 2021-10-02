@@ -1,24 +1,42 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
 body{
-    background-color: rgb(26, 142, 236);
-    color: #ffffff;
+    background-color: blanchedalmond;
+    color:black;
     text-align: center;
+}
+
+header h1{
+    font-size: 40px;
 }
 
 section{
     background-color: #ffffff;
-    height: auto;
-    margin: auto;
+    margin: 0 auto;
     width: 400px;
     border-radius: 20px;
     color: black;
-
-}
-
-div{
-    padding: 10px;
-    text-align: left;
+    border: 1px solid black;
 }
 
 input{
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 100%;
+}
+
+section div{
+    padding: 20px;
     text-align: left;
+}
+
+input[type="button"]{
+    background-color: green;
+    color: white;
+    font-size: 20px;
 }
