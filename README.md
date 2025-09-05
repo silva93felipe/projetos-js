@@ -1,6 +1,5 @@
-# projetos-js
-Mini Projetos em JS
+# Mini Projetos em JS
 
 Alguns Exemplos:
-- Semaforo;
+- Semáforo;
 - Calculadora IMC;
